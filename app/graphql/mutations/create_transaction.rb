@@ -15,7 +15,8 @@ module Mutations
       debit_account = Account.find(debitAccountId);
       credit_account = Account.find(creditAccountId);
       begin
-        if account && debit_account && credit_account  && amount > 0 && account.balance > 0 
+        if account && debit_account && credit_account  && amount > 0 && account.balance > 0 &&
+          (debitAccountId != creditAccountId)
           debit_account_balance = account.balance - amount
           credit_account_balance = credit_account.balance + amount
           if account.update(balance: debit_account_balance) && credit_account.update(balance: credit_account_balance)

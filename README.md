@@ -6,19 +6,12 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
+  - Ruby version -> 2.7.6
 * Database creation
-
+    - rails db:create 
 * Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    - rails db:migrate
+* Start the application
+    - Run rails
+    - http://localhost:3000/graphiql
+    - http://localhost:3000/
