@@ -11,6 +11,8 @@ Things you may want to cover:
     - rails db:create 
 * Database initialization
     - rails db:migrate
+* Create Data
+    - rails db:seed
 * Start the application
     - Run rails
     - http://localhost:3000/graphiql
