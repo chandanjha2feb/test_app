@@ -1,0 +1,84 @@
+{
+  "App.js": "/packs/js/App-f8a13c9c213304114362.js",
+  "App.js.map": "/packs/js/App-f8a13c9c213304114362.js.map",
+  "apollo.js": "/packs/js/apollo-98ffbb5903bc6cf1f472.js",
+  "apollo.js.map": "/packs/js/apollo-98ffbb5903bc6cf1f472.js.map",
+  "application.js": "/packs/js/application-cb3e36e1876b8ff873da.js",
+  "application.js.map": "/packs/js/application-cb3e36e1876b8ff873da.js.map",
+  "entrypoints": {
+    "apollo": {
+      "js": [
+        "/packs/js/apollo-98ffbb5903bc6cf1f472.js"
+      ],
+      "js.map": [
+        "/packs/js/apollo-98ffbb5903bc6cf1f472.js.map"
+      ]
+    },
+    "App": {
+      "js": [
+        "/packs/js/App-f8a13c9c213304114362.js"
+      ],
+      "js.map": [
+        "/packs/js/App-f8a13c9c213304114362.js.map"
+      ]
+    },
+    "application": {
+      "js": [
+        "/packs/js/application-cb3e36e1876b8ff873da.js"
+      ],
+      "js.map": [
+        "/packs/js/application-cb3e36e1876b8ff873da.js.map"
+      ]
+    },
+    "front-end-react/App": {
+      "js": [
+        "/packs/js/front-end-react/App-f989e4c25d58feb9f769.js"
+      ],
+      "js.map": [
+        "/packs/js/front-end-react/App-f989e4c25d58feb9f769.js.map"
+      ]
+    },
+    "front-end-react/src/listAccountsComponent": {
+      "js": [
+        "/packs/js/front-end-react/src/listAccountsComponent-bdb1431869c449ace1d4.js"
+      ],
+      "js.map": [
+        "/packs/js/front-end-react/src/listAccountsComponent-bdb1431869c449ace1d4.js.map"
+      ]
+    },
+    "front-end-react/src/listTransactionsComponent": {
+      "js": [
+        "/packs/js/front-end-react/src/listTransactionsComponent-66732c4036b15bac51bd.js"
+      ],
+      "js.map": [
+        "/packs/js/front-end-react/src/listTransactionsComponent-66732c4036b15bac51bd.js.map"
+      ]
+    },
+    "front-end-react/src/transactionComponent": {
+      "js": [
+        "/packs/js/front-end-react/src/transactionComponent-7b462a585c450557c0c3.js"
+      ],
+      "js.map": [
+        "/packs/js/front-end-react/src/transactionComponent-7b462a585c450557c0c3.js.map"
+      ]
+    },
+    "hello_react": {
+      "js": [
+        "/packs/js/hello_react-8704c923daa94d186fde.js"
+      ],
+      "js.map": [
+        "/packs/js/hello_react-8704c923daa94d186fde.js.map"
+      ]
+    }
+  },
+  "front-end-react/App.js": "/packs/js/front-end-react/App-f989e4c25d58feb9f769.js",
+  "front-end-react/App.js.map": "/packs/js/front-end-react/App-f989e4c25d58feb9f769.js.map",
+  "front-end-react/src/listAccountsComponent.js": "/packs/js/front-end-react/src/listAccountsComponent-bdb1431869c449ace1d4.js",
+  "front-end-react/src/listAccountsComponent.js.map": "/packs/js/front-end-react/src/listAccountsComponent-bdb1431869c449ace1d4.js.map",
+  "front-end-react/src/listTransactionsComponent.js": "/packs/js/front-end-react/src/listTransactionsComponent-66732c4036b15bac51bd.js",
+  "front-end-react/src/listTransactionsComponent.js.map": "/packs/js/front-end-react/src/listTransactionsComponent-66732c4036b15bac51bd.js.map",
+  "front-end-react/src/transactionComponent.js": "/packs/js/front-end-react/src/transactionComponent-7b462a585c450557c0c3.js",
+  "front-end-react/src/transactionComponent.js.map": "/packs/js/front-end-react/src/transactionComponent-7b462a585c450557c0c3.js.map",
+  "hello_react.js": "/packs/js/hello_react-8704c923daa94d186fde.js",
+  "hello_react.js.map": "/packs/js/hello_react-8704c923daa94d186fde.js.map"
+}
